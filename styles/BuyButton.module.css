@@ -1,0 +1,9 @@
+.buy{
+    background:linear-gradient(to bottom right, red , blue);;
+    border-radius: 2px;
+    color: #fff;
+    border: none;
+    padding: 9px 9px;
+    font-size: 18px;
+    font-weight: 700;
+}

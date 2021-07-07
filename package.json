@@ -1,0 +1,24 @@
+{
+  "name": "e-commerce-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@stripe/stripe-js": "^1.15.1",
+    "magic-sdk": "^4.3.0",
+    "next": "11.0.1",
+    "node": "^10.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "7.30.0",
+    "eslint-config-next": "11.0.1",
+    "webpack": "^5.43.0"
+  }
+}
